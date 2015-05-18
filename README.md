@@ -10,4 +10,7 @@ When the game starts, Alice and Bob go into separate soundproof rooms – they c
 If either or both of the written-down guesses turns out to be correct, then Alice and Bob both win as a team.  But if both written-down guesses are wrong, then they both lose.
 
 
+<h3>The Solution</h3>
+If Alice always guesses what she flipped, and Bob always guesses what he did NOT flip, then they will win 100% of the time.
+
 
