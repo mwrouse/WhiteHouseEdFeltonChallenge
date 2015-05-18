@@ -1,5 +1,6 @@
 # Example code for the challenge presented by Ed Felton on
-# https://whitehouse.gov/blog/2015/05/17/hello-world
+# https://whitehouse.gov/blog/2015/05/17/hello-world\
+# Code by Michael Rouse on 2015-05-18
 
 # Solution:
 # Alice guesses what she flipped, Bob guesses what he did NOT flip
