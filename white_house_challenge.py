@@ -29,7 +29,8 @@ def play():
     print("Bob Flip.....: ", ("Heads", "Tails")[bob_flip == TAILS])
     print("Bob Guess....: ", ("Heads", "Tails")[bob_guess == TAILS])
     print("")
-    print("Result.......: ", ("They Lost", "They Won!")[(alice_guess == bob_flip) or (bob_guess == alice_flip)]) # They won if Alice's guess was right OR if Bob's guess was right
+    # They won if Alice's guess was right OR if Bob's guess was right
+    print("Result.......: ", ("They Lost", "They Won!")[(alice_guess == bob_flip) or (bob_guess == alice_flip)])
     print("")
     
 
