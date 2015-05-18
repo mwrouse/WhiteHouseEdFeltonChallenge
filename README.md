@@ -1,6 +1,6 @@
 # Ed Felton Challenge Solution
 
-This is a solution to the [challenge posted on the White House Blog](https://www.whitehouse.gov/blog/2015/05/17/hello-world) by [Ed Felton](https://twitter.com/EdFelten44) in Python.
+This is a solution to the [challenge posted on the White House Blog](https://www.whitehouse.gov/blog/2015/05/17/hello-world) by [Ed Felton](https://twitter.com/EdFelten44) in Python 3.1.1.
 
 <h3>The Problem</h3>
 Alice and Bob are playing a game.  They are teammates, so they will win or lose together.  Before the game starts, they can talk to each other and agree on a strategy. 
